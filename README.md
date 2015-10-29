@@ -18,7 +18,7 @@ Than in the module buildscript:
 
 
 ```groovy
-compile 'com.github.shareme:GWSFoldableLayout:1.0.0.0@aar'
+compile 'com.github.shareme:GWSFoldableLayout:{latest-relese-number}@aar'
 ```
 
 Target Android API Range
